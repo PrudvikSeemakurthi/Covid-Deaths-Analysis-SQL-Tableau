@@ -16,8 +16,6 @@ This document provides an overview of the dashboards created in Tableau as part 
 - Global map visualization with color intensity for death counts.  
 - Filters for year and region.  
 
-**Screenshot:**  
-![Global Overview Dashboard](Images/global_overview.png)  
 
 ---
 
@@ -30,8 +28,6 @@ This document provides an overview of the dashboards created in Tableau as part 
 - Bar charts ranking top countries by total deaths.  
 - Dropdown filter to select specific countries/regions.  
 
-**Screenshot:**  
-![Country Comparison Dashboard](Images/country_comparison.png)  
 
 ---
 
